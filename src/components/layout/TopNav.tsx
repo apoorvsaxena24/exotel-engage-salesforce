@@ -29,7 +29,7 @@ export function TopNav({ onMenuClick }: { onMenuClick: () => void }) {
           <HelpCircle size={18} />
         </button>
         <div className="ml-2 w-8 h-8 rounded-full bg-exotel-purple flex items-center justify-center text-xs font-bold">
-          US
+          AS
         </div>
       </div>
     </header>

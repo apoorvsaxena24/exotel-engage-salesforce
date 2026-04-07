@@ -12,7 +12,7 @@ export default function HomePage() {
   return (
     <div className="p-6 max-w-7xl mx-auto space-y-6">
       <div className="text-xl font-bold text-gray-800">🏠 Home</div>
-      <div className="text-lg text-gray-600">{greeting}, Utsuk</div>
+      <div className="text-lg text-gray-600">{greeting}, Apoorv Saxena</div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* Tasks */}
