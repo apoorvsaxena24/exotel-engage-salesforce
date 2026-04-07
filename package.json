@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://utsuksrivastava-neo.github.io/exotel-engage-salesforce/",
+  "homepage": "https://apoorvsaxena24.github.io/exotel-engage-salesforce/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
